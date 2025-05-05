@@ -41,7 +41,7 @@ const CryptoFlowAnimation: React.FC<CryptoFlowAnimationProps> = ({
    cashVariants = ["Naira", "Pounds", "Cedis"],
    finalWords = ["HTML", "CSS", "JavaScript"],
    cryptoColor = "56, 189, 248",
-   // cashColor = "250, 204, 21",
+   // 
    finalColor = "148, 163, 184",
    animationSpeed = 1,
    linesYOffset = [-30, 0, 30],
