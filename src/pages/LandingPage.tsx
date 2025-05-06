@@ -17,7 +17,7 @@ const LandingPage = () => {
    }, []);
 
    return (
-      <div className="flex flex-col min-h-screen bg-[#0a0d14] text-white">
+      <div className="flex flex-col min-h-screen bg-gray-50 text-gray-800">
          <Navbar isLanding={true} />
          <main className="flex-grow">
             <HeroSection />
